@@ -67,7 +67,7 @@ const producto1 = new Product("Sahumerio", "Los sahumerios se han empleado desde
 
 const producto2 = new Product("Zafus y zabufón","Relleno cascara de cacao. Funda y cubierta de tela hecha con pet 100% reciclado.", 555, "z", "msZ123", 54);
 
-const producto3 = new Product("Ying Yang | Vela soha", "𝐲𝐢𝐧 𝐲𝐚𝐧𝐠 que armoniza nuestro hogar recordándonos que en cada cosa existen opuestos esenciales y complementarios, aún en nosotros", 108, "y", "msS123", 111);
+const producto3 = new Product("Ying Yang | Vela soha", "Armoniza nuestro hogar recordándonos que en cada cosa existen opuestos esenciales y complementarios, aún en nosotros", 108, "y", "msS123", 111);
 
 const producto4 = new Product('Juego de macetas', '', '', '', '', '')
 
