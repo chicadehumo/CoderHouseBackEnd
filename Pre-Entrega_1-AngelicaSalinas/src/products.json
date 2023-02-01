@@ -1,0 +1,90 @@
+[
+	{
+		"title": "Salvia, sahumerio",
+		"description": "Amarre perfecto para rituales de re-conexión, limpieza y protección energética.",
+		"price": "199",
+		"caregory": "rituales",
+		"thumbnail": "/images/thumbnail/sahumerios.jpg",
+		"code": 101,
+		"stock": 54,
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "Vela Soja, Luna Nueva",
+		"description": "Activa tus sentidos con aromaterapia para el alma amorosa",
+		"price": "333",
+		"caregory": "rituales",
+		"thumbnail": "/images/thumbnail/vela.jpg",
+		"code": 102,
+		"stock": 22,
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "Kit: Aura en equilibrio",
+		"description": "Conecta con corazón de la Pachamama a través del danzar con plantas.",
+		"price": "555",
+		"caregory": "rituales",
+		"thumbnail": "/images/thumbnail/kit.jpg",
+		"code": 103,
+		"stock": 45,
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "Otoño en calma, sahumerio",
+		"description": "Conecta con corazón de la Pachamama a través del danzar con plantas.",
+		"price": "222",
+		"caregory": "rituales",
+		"thumbnail": "/images/thumbnail/hierbas_otonio.jpg",
+		"code": 104,
+		"stock": 66,
+		"status": true,
+		"id": 4
+	},
+	{
+		"title": "Zafu y zabutón",
+		"description": "Ideal para mantener tu meditación comoda, más profunta y estable",
+		"price": "555",
+		"caregory": "yoga",
+		"thumbnail": "/images/thumbnail/zafu.jpg",
+		"code": 105,
+		"stock": 11,
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "Shampoo sólido | Cero caspa",
+		"description": "Activa tus sentidos con la suavidad del shampoo herbal",
+		"price": "65",
+		"caregory": "higiene",
+		"thumbnail": "/images/thumbnail/jabon_cero_caspa.jpg",
+		"code": 106,
+		"stock": 55,
+		"status": true,
+		"id": 6
+	},
+	{
+		"title": "Taller: Conectando con mi corazón",
+		"description": "Desarrolla tu poder a través de potenciar el flujo de tu voz",
+		"price": "666",
+		"caregory": "talleres",
+		"thumbnail": "/images/thumbnail/coneta_voz.jpg",
+		"code": 107,
+		"stock": 20,
+		"status": true,
+		"id": 7
+	},
+	{
+		"title": "Taller: Tejiendo un Japamala",
+		"description": "Activa tus sentidos con herramientas el alma amorosa",
+		"price": "899",
+		"caregory": "talleres",
+		"thumbnail": "/images/thumbnail/taller_japamala.jpg",
+		"code": 108,
+		"stock": 30,
+		"status": true,
+		"id": 8
+	}
+]
